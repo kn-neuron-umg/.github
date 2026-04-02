@@ -13,4 +13,4 @@ Hey! We are passionate in new technologies and science. In this organization we 
 * **Vice-Chairperson:** Adrian Pliszka
 * **Treasurer** Oliwier Starostka
 * **Supervisor of the projects:** Jan Wiśniewski
-* **Academical su;ervisor** Juliusz Łosiński
+* **Academical supervisor** Juliusz Łosiński
