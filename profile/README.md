@@ -11,6 +11,6 @@ Hey! We are passionate in new technologies and science. In this organization we 
 ## 👥 Board
 * **Chairperson:** Jakub Przybylski
 * **Vice-Chairperson:** Adrian Pliszka
-* **Treasurer** Oliwier Starostka
+* **Treasurer:** Oliwier Starostka
 * **Supervisor of the projects:** Jan Wiśniewski
-* **Academical supervisor** Juliusz Łosiński
+* **Academical supervisor:** Juliusz Łosiński
